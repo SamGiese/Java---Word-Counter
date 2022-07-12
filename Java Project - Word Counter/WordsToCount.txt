@@ -1,0 +1,1 @@
+Hello there this is the file that I am using to count my words on. It should not be effected by punctuation so this, will still count as this even though there is a comma.
